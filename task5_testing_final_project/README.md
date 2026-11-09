@@ -54,6 +54,4 @@ Roll No   Name          Age   Course      Marks
 Average marks: 86.75
 ```
 
-## Screenshots
 
-Add screenshots of the program and the test results in a `screenshots` folder.
